@@ -1,5 +1,9 @@
 package XYZ
 
-class ReverseLettering {
+object ReverseLettering extends App {
+
+  def function(input : String) : String = {
+    "Y"
+  }
 
 }
